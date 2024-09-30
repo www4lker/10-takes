@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/10-takes/","tags":["gardenEntry"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowFileTree":true}
 ---
 
-# Apresentação do 10 takes* [^1]
-
+# Apresentação do 10 takes*
 
 Este site é um espaço singular, feito para organizar e compartilhar os mais de 600 clippings do meu e-reader. Inspirado pela ideia de **"annotation"** como definida por Remi Kalir, vejo cada anotação como um ponto de conexão entre textos, ideias e experiências. 
 
@@ -21,4 +20,4 @@ Neste site, você encontrará uma coleção de recortes, ou clippings, que refle
 
 Para navegar por este espaço, você pode utilizar a funcionalidade de **search** ou explorar as **tags**, que facilitam a localização de temas específicos. Cada recorte é uma expressão única da minha experiência, evidente em marcas explícitas, como a data e o dia em que foram feitos, mas também em escolhas mais sutis, como a seleção de certos trechos. A escolha de um determinado trecho para destacar revela uma especialidade inerente ao ato da anotação — é um reflexo das minhas interações pessoais com o texto, e cada marca se torna um testemunho do que me instigou a pensar, questionar e dialogar com a obra. Assim, a anotação não é apenas uma prática de registro; é um convite à reflexão sobre o que nos move, fazendo deste site um espaço de descoberta e aprendizado contínuo.
 
-[^1]: Sim, 10 takes é para dizer  de forma estilosa a palavra  Destaques
+****Sim, 10 takes é para dizer  de forma estilosa a palavra  Destaques
